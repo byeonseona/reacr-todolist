@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacr-todolist/static/css/main.25a13eb6.css",
+    "main.js": "/reacr-todolist/static/js/main.efaec7e0.js",
+    "index.html": "/reacr-todolist/index.html",
+    "main.25a13eb6.css.map": "/reacr-todolist/static/css/main.25a13eb6.css.map",
+    "main.efaec7e0.js.map": "/reacr-todolist/static/js/main.efaec7e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a13eb6.css",
+    "static/js/main.efaec7e0.js"
+  ]
+}
